@@ -1,0 +1,16 @@
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\bin\Debug\net5.0\CSharpEgitim.exe
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\bin\Debug\net5.0\CSharpEgitim.deps.json
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\bin\Debug\net5.0\CSharpEgitim.runtimeconfig.json
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\bin\Debug\net5.0\CSharpEgitim.runtimeconfig.dev.json
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\bin\Debug\net5.0\CSharpEgitim.dll
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\bin\Debug\net5.0\ref\CSharpEgitim.dll
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\bin\Debug\net5.0\CSharpEgitim.pdb
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\obj\Debug\net5.0\CSharpEgitim.csproj.AssemblyReference.cache
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\obj\Debug\net5.0\CSharpEgitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\obj\Debug\net5.0\CSharpEgitim.AssemblyInfoInputs.cache
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\obj\Debug\net5.0\CSharpEgitim.AssemblyInfo.cs
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\obj\Debug\net5.0\CSharpEgitim.csproj.CoreCompileInputs.cache
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\obj\Debug\net5.0\CSharpEgitim.dll
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\obj\Debug\net5.0\ref\CSharpEgitim.dll
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\obj\Debug\net5.0\CSharpEgitim.pdb
+C:\Users\Habibe\Documents\GitHub\CSharpPatika\CSharpEgitim\obj\Debug\net5.0\CSharpEgitim.genruntimeconfig.cache

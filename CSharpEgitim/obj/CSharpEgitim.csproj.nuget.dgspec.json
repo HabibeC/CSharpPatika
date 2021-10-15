@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Habibe\\Desktop\\C#\\CSharpEgitim\\CSharpEgitim.csproj": {}
+    "C:\\Users\\Habibe\\Documents\\GitHub\\CSharpPatika\\CSharpEgitim\\CSharpEgitim.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Habibe\\Desktop\\C#\\CSharpEgitim\\CSharpEgitim.csproj": {
+    "C:\\Users\\Habibe\\Documents\\GitHub\\CSharpPatika\\CSharpEgitim\\CSharpEgitim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Habibe\\Desktop\\C#\\CSharpEgitim\\CSharpEgitim.csproj",
+        "projectUniqueName": "C:\\Users\\Habibe\\Documents\\GitHub\\CSharpPatika\\CSharpEgitim\\CSharpEgitim.csproj",
         "projectName": "CSharpEgitim",
-        "projectPath": "C:\\Users\\Habibe\\Desktop\\C#\\CSharpEgitim\\CSharpEgitim.csproj",
+        "projectPath": "C:\\Users\\Habibe\\Documents\\GitHub\\CSharpPatika\\CSharpEgitim\\CSharpEgitim.csproj",
         "packagesPath": "C:\\Users\\Habibe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Habibe\\Desktop\\C#\\CSharpEgitim\\obj\\",
+        "outputPath": "C:\\Users\\Habibe\\Documents\\GitHub\\CSharpPatika\\CSharpEgitim\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
